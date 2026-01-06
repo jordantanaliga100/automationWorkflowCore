@@ -14,3 +14,9 @@ This repository is meant for developers who want to experiment, learn, and autom
 - Workspace configurations for VS Code
 
 ---
+
+Author:
+jordantanaliga100
+
+Collaborator:
+tanaliga100
